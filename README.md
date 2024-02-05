@@ -9,7 +9,7 @@ Completed this project as a part of Value Added Course with United Networks of P
 4. Visualized Key Performance Indicators(KPIs) in a format that provides a quick overview of attrition trends, reasons and effectiveness of rentention strategies. Facilitates date-driven decision-making and highlights areas for improvement.
 5. Applied relevant Excel functions to optimize and structure the data for effective visualization.
 
-PDF LINK : https://drive.google.com/file/d/1O00UMOiaKvHZsstfNdzU_21MYeE-LEiT/view?usp=sharing
+PDF LINK : https://drive.google.com/file/d/1ZoVDh3BYax4jMNaXlLhPr7AGZMXuj4Wo/view?usp=sharing
 
 EXCEL LINK : https://docs.google.com/spreadsheets/d/1t_Ebazs3Fk0DBgYHVlWOi1k8iZn_Zqui/edit?usp=sharing&ouid=104384511614750908275&rtpof=true&sd=true
 
