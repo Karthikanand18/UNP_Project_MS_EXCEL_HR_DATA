@@ -11,6 +11,6 @@ Completed this project as a part of Value Added Course with United Networks of P
 
 PDF LINK : https://drive.google.com/file/d/1ZoVDh3BYax4jMNaXlLhPr7AGZMXuj4Wo/view?usp=sharing
 
-EXCEL LINK : https://in.docworkspace.com/d/sIMad0Kwv6MKErgY
+EXCEL LINK : https://docs.google.com/spreadsheets/d/1nR6YNekXfzanhxtmMbb7iecE948RwrFb/edit#gid=1989375269
 
    
